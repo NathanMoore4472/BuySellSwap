@@ -1,0 +1,89 @@
+apply plugin: 'com.android.application'
+
+repositories {
+    mavenCentral()
+    maven {
+        url "https://jitpack.io"
+    }
+    //maven { url 'http://maven.stickerpipe.com/artifactory/stickerfactory' }
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.mooresedge.buysellswap"
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+
+    sourceSets {
+        main {
+            java {
+                // exclude '**/PlayServicesHelper.java'
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    dexOptions {
+        javaMaxHeapSize "2g"
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/ECLIPSE_.SF'
+        exclude 'META-INF/ECLIPSE_.RSA'
+    }
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':library')
+//    compile (project(":sample-core"))
+    compile project(":mobicomkitui")
+    //compile "com.google.android.gms:play-services-gcm:8.4.0"
+    //compile 'com.google.android.gms:play-services-maps:8.4.0'
+    compile 'com.android.support:appcompat-v7:25.1.1'
+    compile 'com.android.support:design:25.1.1'
+    compile 'com.android.support:cardview-v7:25.1.1'
+    compile 'com.android.support:recyclerview-v7:25.1.1'
+    compile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+    compile 'com.squareup.picasso:picasso:2.3.2'
+    compile 'com.squareup.okhttp:okhttp:2.4.0'
+    compile 'com.squareup.okhttp:okhttp-urlconnection:2.2.0'
+    compile 'de.hdodenhof:circleimageview:1.3.0'
+    compile 'com.facebook.android:facebook-android-sdk:4.9.0'
+    compile 'com.pushbots:pushbots-lib:2.0.13@aar'
+    compile 'com.google.android.gms:play-services-auth:10.2.6'
+    compile 'com.facebook.stetho:stetho:1.4.2'
+    //compile 'com.quickblox:quickblox-android-sdk-core:3.3.0'
+    //compile 'com.quickblox:quickblox-android-sdk-messages:3.3.0'
+    //compile 'com.quickblox:quickblox-android-sdk-chat:3.3.0'
+    //compile 'com.quickblox:quickblox-android-sdk-content:3.3.0'
+    //compile 'com.github.orangegangsters:swipy:1.2.2@aar'
+    //compile 'com.github.johnkil.android-robototextview:robototextview:2.4.3'
+    //compile 'com.github.bumptech.glide:glide:3.6.1'
+    //compile 'com.google.android.gms:play-services-gcm:10.0.1'
+    compile 'com.google.firebase:firebase-messaging:10.2.6'
+    compile 'com.google.firebase:firebase-core:10.2.6'
+    //compile 'com.applozic.communication.uiwidget:mobicomkitui:4.75'
+    //compile 'com.applozic.communication.uiwidget:mobicomkitui:4.75'
+}
+apply plugin: 'com.google.gms.google-services'

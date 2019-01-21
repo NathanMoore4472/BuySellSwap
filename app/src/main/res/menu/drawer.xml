@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:title="@string/nav_item_home" />
+        <item
+            android:id="@+id/navigation_item_buy"
+            android:icon="@drawable/ic_shopping_cart_white_24dp"
+            android:title="@string/nav_item_buy" />
+        <item
+            android:id="@+id/navigation_item_sell"
+            android:icon="@drawable/ic_add_shopping_cart_white_24dp"
+            android:title="@string/nav_item_sell" />
+    </group>
+</menu>

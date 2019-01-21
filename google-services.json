@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "103138747503",
+    "project_id": "derrybuysellswap"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103138747503:android:478d8608d46cbe0f",
+        "android_client_info": {
+          "package_name": "com.echessa.designdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""//AIzaSyDUK1AU2_7ZUkNYA_eCIAf8BfIYVIqTXLM
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

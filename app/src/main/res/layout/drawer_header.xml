@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="?attr/colorPrimaryDark"
+        android:gravity="bottom"
+        android:padding="16dp"
+        android:id="@+id/DrawerHeader"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/frameLayout">
+
+        <ImageView
+            android:id="@+id/drawer_header_imagevView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/ic_account_circle_white_48dp" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:id="@+id/drawer_header_profile_picture" />
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/drawer_header_info_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="You are not Logged in"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:layout_alignBottom="@+id/frameLayout"
+            android:layout_toRightOf="@+id/frameLayout"
+            android:layout_toEndOf="@+id/frameLayout" />
+
+        <TextView
+            android:id="@+id/drawer_header_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Log in now"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:layout_above="@+id/drawer_header_info_text"
+            android:layout_toRightOf="@+id/frameLayout"
+            android:layout_toEndOf="@+id/frameLayout" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_spinner_prompt">Choose a category</string>
+    <string name="price_spinner_prompt">Price</string>
+    <string name="sort_spinner_prompt">Sort By</string>
+
+    <string-array name="category_spinner_entries">
+        <item>Fashion and Accessories</item>
+        <item>Home and Garden</item>
+        <item>Electronics</item>
+        <item>Movies, books and music</item>
+        <item>Baby and Child</item>
+        <item>Pet and Accessories</item>
+        <item>Sport, Leisure and Games</item>
+        <item>Cars and Motors</item>
+        <item>Services</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="search_category_spinner_entries">
+        <item>All</item>
+        <item>Fashion and Accessories</item>
+        <item>Home and Garden</item>
+        <item>Electronics</item>
+        <item>Movies, books and music</item>
+        <item>Baby and Child</item>
+        <item>Pet and Accessories</item>
+        <item>Sport, Leisure and Games</item>
+        <item>Cars and Motors</item>
+        <item>Services</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="sortby_spinner_entries">
+        <item>Date: New to Old</item>
+        <item>Date: Old to New</item>
+        <item>Price: Low to High</item>
+        <item>Price: High to Low</item>
+        <item>Promoted</item>
+    </string-array>
+
+    <string-array name="search_price_spinner_entries">
+        <item>All</item>
+        <item>Free</item>
+        <item>£0 - £20</item>
+        <item>£20 - £50</item>
+        <item>£50 - £100</item>
+        <item>£100+</item>
+    </string-array>
+
+    <string-array name="profile_listview_entries">
+        <item>Like us on Facebook</item>
+        <item>Feedback</item>
+        <item>Libaries Used</item>
+    </string-array>
+
+    <string-array name="libaries_entries">
+        <item>SlidingMenu</item>
+        <item>Apache HTTP</item>
+        <item>Picasso</item>
+        <item>CircleImageView</item>
+        <item>Facebook SDK</item>
+        <item>Facebook Stetho</item>
+        <item>Applozic</item>
+        <item>Google Play Services</item>
+        <item>Firebase Messaging</item>
+    </string-array>
+
+    <string-array name="Delete_entries">
+        <item>Remove Item</item>
+    </string-array>
+</resources>

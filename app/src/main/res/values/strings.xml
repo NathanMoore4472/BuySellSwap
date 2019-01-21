@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Buy Sell Swap!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_buy">Buy</string>
+    <string name="nav_item_sell">Sell</string>
+    <string name="nav_sub_menu">Categories</string>
+    <string name="nav_sub_menu_item01">Clothes</string>
+    <string name="nav_sub_menu_item02">Tech</string>
+    <string name="drawer_header_text">Hello, Nathan</string>
+    <string name="second_activity_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consectetur diam id aliquam scelerisque. Donec ultrices lacus vel dignissim pharetra. Vivamus pharetra augue quis rhoncus placerat. Sed ultricies at risus non cursus. Nam rutrum leo nec placerat consectetur. Vestibulum feugiat eleifend diam, nec interdum augue tincidunt sit amet. Praesent feugiat est auctor lacus consectetur, vitae pellentesque dolor laoreet.</string>
+    <string name="title_activity_second"></string>
+    <string name="MainAd">ca-app-pub-3820606845327461/2903646636</string>
+    <string name="BannerAd">ca-app-pub-3820606845327461/5857113030</string>
+    <string name="title_activity_sell">Sell</string>
+    <string name="title_activity_facebook_login">Facebook</string>
+    <string name="facebook_app_id">1460081707637367</string>
+    <string name="gcm_api_key">AIzaSyB3E5n-Lz-o57phRP0IYXtiv-Gvhu1geOc</string>
+    <string name="gcm_sender_id">103138747503</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_my_account">My Account</string>
+
+    <!--TODO: My Account Tab Headings -->
+    <string name="title_section1">Selling</string>
+    <string name="title_section2">Watching</string>
+    <string name="title_section3">Profile</string>
+    <string name="title_activity_chats">Chats</string>
+    <string name="title_activity_notification_category">Category Notifications</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>

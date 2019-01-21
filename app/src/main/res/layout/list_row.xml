@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/card"
+        app:cardElevation="3dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:text="Playstation 4 Brand New! Longer text test"
+                android:id="@+id/item_title"
+                android:textStyle="bold"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/item_list_image4"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:lines="1" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="This is a test desription for the item that is super sexy selling for low low prices"
+                android:id="@+id/item_description"
+                android:layout_below="@+id/item_title"
+                android:layout_marginTop="5dp"
+                android:layout_alignLeft="@+id/item_title"
+                android:layout_alignStart="@+id/item_title"
+                android:layout_toStartOf="@+id/item_price"
+                android:maxLines="2"
+                android:layout_toLeftOf="@+id/item_price"
+                android:paddingRight="5dp"
+                android:layout_alignBottom="@+id/item_list_image4" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circle_image_border"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:layout_margin="9dp" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/item_list_image4"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/ps4"
+                android:layout_margin="10dp"
+                android:scaleType="centerCrop" />
+
+
+          <!--  <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"/>
+                android:src="@drawable/ic_done"/>
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/item_list_image"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/ic_emoticon" /> -->
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:id="@+id/imageView5"
+                android:src="@drawable/maskandshadow"
+                android:layout_margin="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:text="£100"
+                android:id="@+id/item_price"
+                android:textStyle="bold"
+                android:layout_alignBottom="@+id/item_list_image4"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:paddingBottom="5dp"
+                android:paddingRight="5dp" />
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/ic_sold"
+                android:id="@+id/item_sold"
+                android:visibility="gone"/>
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

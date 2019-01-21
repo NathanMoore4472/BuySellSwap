@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.2.6_5a7a7c41d65727e5fef9d4d6dfbc430e1b556795\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.3.0_b612d14cbcfd3568d42c8a2916e47eab2fc8bec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_0cb6f39a1d672a2538b8e607b81831cddbe2887f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.9.0_d961de1158e96a464fcf9524e57c0a0b53dfbbc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.theartofdev.edmodo\android-image-cropper\2.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.theartofdev.edmodo-android-image-cropper-2.3.1_79c8ce9220e3c1ec39fa32564960a720d6e246b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.2.6_89c58d9c1bdc8a3e3b3a596e847c571f0f9093ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pushbots-pushbots-lib-2.0.13_171a6b1ae8b5628eec07ef1a5891381341672bed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\before chat\mobicomkit\unspecified\jars\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4604f46bdb50e47d0311f5e04f6612fb1cfbd0d8">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.eclipse.paho.android.service-1.0.2_f6238f4dbb128e6d34e87b5ca16b7a5c6d668924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_6d753d2edb80f9450ae336c2c471b399810e8a62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pushbots-pushbots-lib-2.0.13_171a6b1ae8b5628eec07ef1a5891381341672bed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_711edfda45f047ff93a056d90adb63c1144c28e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.6_bbdfee3f97f086fe79e9cf5a13957d520db24631\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_c823b17d8b60de3076857b8489034f68617a107c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d2cd6aaafe4f5e850c5a5874bc991d9a2ee28a">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2171b2f438d17698820e02ac53401d822cd4b714\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d49a4e54302dc17cb0e45aa0a66450489370f0c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3962157210f40011fef6968df6e05f14de4155e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.3.0_b612d14cbcfd3568d42c8a2916e47eab2fc8bec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.theartofdev.edmodo\android-image-cropper\2.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.theartofdev.edmodo-android-image-cropper-2.3.1_79c8ce9220e3c1ec39fa32564960a720d6e246b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.4.0_0d3d24f86c0426a6220ddc5411ccb2cab8e15234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_b076caa0c9da9465fb0683d548bf468e0a639481\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_100c3b8a6ded837b0e6fd274c542e0760a38fccf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.6_27714b946eb7373f0db9d3cad55d1078394df1cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.9.0_d961de1158e96a464fcf9524e57c0a0b53dfbbc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.2.0\cb20062e14c523637b7643295418097b48cccec2\okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-2.2.0_e0ebb9a120d45626e745fa22bb29bc81c1d6fc07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_031836c9b0c426177dfa4fd252ecec6ee0b6843b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_05767f6fed573e3002f1991b05f2cd4cb8b374a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pushbots-pushbots-lib-2.0.13_171a6b1ae8b5628eec07ef1a5891381341672bed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_797926d4380e1ffcbb4481dede38a7b5111f6581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_711edfda45f047ff93a056d90adb63c1144c28e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_f18abc24d04e6c5951e671d3d25699b47f896699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pushbots-pushbots-lib-2.0.13_171a6b1ae8b5628eec07ef1a5891381341672bed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_9346ade40271ec784d14ad479753059b32284320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.4.0_0d3d24f86c0426a6220ddc5411ccb2cab8e15234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.4.0_0d3d24f86c0426a6220ddc5411ccb2cab8e15234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.9.0_d961de1158e96a464fcf9524e57c0a0b53dfbbc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_711edfda45f047ff93a056d90adb63c1144c28e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.9.0_d961de1158e96a464fcf9524e57c0a0b53dfbbc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.2.6_e0b5d7ad9cda81b226e90b260827eb77ff67b6e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_6d753d2edb80f9450ae336c2c471b399810e8a62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_711edfda45f047ff93a056d90adb63c1144c28e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_8a19585820a38d554479eaec4e76b6a57bb58f9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcfe29a9d8c07dde349d3acca5985df1aa66ac27">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2171b2f438d17698820e02ac53401d822cd4b714\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="000e37c3fc8f4662fb06ba3dd0662fc46398510d">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3962157210f40011fef6968df6e05f14de4155e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.4.0_0d3d24f86c0426a6220ddc5411ccb2cab8e15234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_4871737876ff59395f626f079b1d3c43ca4138b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_58a5032fd8c526d44acb8d8f3bf4d741a04aea93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.3.0_cc68fe70d7a040798d91bda557b2427adb6b44a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_6f6ace89cd90411d65a115690575b9c1a4003434\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.6_1ad71d9ce58d32d5c1c78da1148448ffc69613a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_2524731c99f71f778c45d5e5621874dbd667db05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_711edfda45f047ff93a056d90adb63c1144c28e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.4.0_0d3d24f86c0426a6220ddc5411ccb2cab8e15234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.2.0\cb20062e14c523637b7643295418097b48cccec2\okhttp-urlconnection-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-2.2.0_e0ebb9a120d45626e745fa22bb29bc81c1d6fc07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_05767f6fed573e3002f1991b05f2cd4cb8b374a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_f18abc24d04e6c5951e671d3d25699b47f896699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_c1d7734dfb4152cd58e9b0b9de52c6ac841c5fa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_58a5032fd8c526d44acb8d8f3bf4d741a04aea93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_031836c9b0c426177dfa4fd252ecec6ee0b6843b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.9.0_d961de1158e96a464fcf9524e57c0a0b53dfbbc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.3.0_cc68fe70d7a040798d91bda557b2427adb6b44a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.3.0_b612d14cbcfd3568d42c8a2916e47eab2fc8bec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\before chat\mobicomkit\unspecified\jars\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3a0d4d7493bf9cee83f80276b08d955adf31d5">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.eclipse.paho.client.mqttv3-1.0.2_9eaa8baadd1ce7eb986d784c535d72d3056ca109\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.1_8120cb2e061061df388114a6db5ede14062d645c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_8a19585820a38d554479eaec4e76b6a57bb58f9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_58a5032fd8c526d44acb8d8f3bf4d741a04aea93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.6_f6e4f95d3e51b54a981f64e6250f0fc8fb8b10af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_876498405c69f483e987f21bee4d3fd64bd57bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_5e9f65ffdf406b0b4f16865981ddf7b35d16b29d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.3.0_cc68fe70d7a040798d91bda557b2427adb6b44a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.6_a5737e108b18bfb4e72b44eef9177b7521ba7b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.2.0\cb20062e14c523637b7643295418097b48cccec2\okhttp-urlconnection-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-2.2.0_e0ebb9a120d45626e745fa22bb29bc81c1d6fc07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32f45bd44a3e7efc235bbfed120029290f5d674a">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.stetho-stetho-1.4.2_9a36b7988dd8c1b39da94db4c8a5f4f1a4812446\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.3.0_b612d14cbcfd3568d42c8a2916e47eab2fc8bec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_082a8f4e9b4395a50e05959e18b55bc871d34ba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_58a5032fd8c526d44acb8d8f3bf4d741a04aea93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.6_a65dd5de3a5e2f29bbcdfb007fc78cdd000ad756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.3.0_cc68fe70d7a040798d91bda557b2427adb6b44a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_58a5032fd8c526d44acb8d8f3bf4d741a04aea93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_031836c9b0c426177dfa4fd252ecec6ee0b6843b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\before chat\mobicomkit\unspecified\jars\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4604f46bdb50e47d0311f5e04f6612fb1cfbd0d8">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.eclipse.paho.android.service-1.0.2_f6238f4dbb128e6d34e87b5ca16b7a5c6d668924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_05767f6fed573e3002f1991b05f2cd4cb8b374a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.6_7f98a60bfac2fd99d0eabdbcf2170001492a5374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.2.0\cb20062e14c523637b7643295418097b48cccec2\okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-2.2.0_e0ebb9a120d45626e745fa22bb29bc81c1d6fc07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_cc26aa40d871c9b7c7ac83f92edb0f37286cd601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_031836c9b0c426177dfa4fd252ecec6ee0b6843b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.3.0_cc68fe70d7a040798d91bda557b2427adb6b44a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_4586b2bad9d0d334d91c946b152f5c7d62ca7d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_6599a26a267f80f4ce4dd6f8ac51f2225eac7e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.3.0_b612d14cbcfd3568d42c8a2916e47eab2fc8bec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_05767f6fed573e3002f1991b05f2cd4cb8b374a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.2.0\cb20062e14c523637b7643295418097b48cccec2\okhttp-urlconnection-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-2.2.0_e0ebb9a120d45626e745fa22bb29bc81c1d6fc07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pushbots-pushbots-lib-2.0.13_171a6b1ae8b5628eec07ef1a5891381341672bed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_05767f6fed573e3002f1991b05f2cd4cb8b374a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_031836c9b0c426177dfa4fd252ecec6ee0b6843b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\exploded-aar\before chat\mobicomkit\unspecified\jars\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3a0d4d7493bf9cee83f80276b08d955adf31d5">
+        <dex dex="C:\Users\Nathan\Desktop\before chat\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.eclipse.paho.client.mqttv3-1.0.2_9eaa8baadd1ce7eb986d784c535d72d3056ca109\classes.dex" />
+    </item>
+
+</items>
